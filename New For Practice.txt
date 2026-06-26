@@ -1,1 +1,2 @@
-Hey I am new to the opensource programming 
+# Hey I am new to the opensource programming 
+print("Hello My New World") 
