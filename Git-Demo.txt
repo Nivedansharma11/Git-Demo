@@ -1,2 +1,3 @@
 Hey My Name is Nivedan Sharma and I am new to this Github
 and this is for new commit from github
+so now this changes is done in vs code by nivedan sharma
